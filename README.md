@@ -38,4 +38,4 @@ python pipeline.py
 Charts are saved in `figs/` and metrics are printed to the console.
 
 ## Author
-Minuku
+Minuku Chethan Sai
